@@ -71,12 +71,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">A bit useless graph (private projects):</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Qt1Rbt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Qt1Rbt/Qt1Rbt/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
