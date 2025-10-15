@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">A bit useless graph (private projects):</h3>
+<h3 align="left">Here's a snake graph, simply because it's useless</h3>
 
 ###
 
